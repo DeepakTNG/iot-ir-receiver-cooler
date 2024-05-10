@@ -34,6 +34,7 @@ This project is aimed at controlling four relays wirelessly using an IR sensor. 
 ## Notes
 - Ensure that the electrical appliances/devices connected to the relays do not exceed the relay module's maximum load capacity.
 - Keep the IR sensor module unobstructed for proper reception of infrared signals from the remote control.
+- Only one relay from relay 1, 2, and 3 will be active at any point in time. However, relay 4 can be independently controlled and switched on or off separately.
 - Customize the Arduino sketch as needed for additional functionality or specific requirements.
 
 ## Contributors
